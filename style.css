@@ -1,0 +1,14 @@
+h1{
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-family: verdana;
+    font-size: 100%;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 60px;
+}
